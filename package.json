@@ -4,7 +4,8 @@
   "description": "Small demo for a friend",
   "main": "index.js",
   "dependencies": {
-    "request": "^2.55.0"
+    "request": "^2.55.0",
+    "winston": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
